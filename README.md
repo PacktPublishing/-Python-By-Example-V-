@@ -28,8 +28,7 @@ By the end of this video tutorial, you will have built some useful utilities usi
 To fully benefit from the coverage included in this course, you will need:<br/>
 This course is for developers who would like to learn the Python programming language in a hands-on way. Basic programming experience would be an added advantage.
 ### Technical Requirements
-This course has the following software requirements:<br/>
-Python3.x
+This course has the following software requirements: ● A working internet connection and a computer This course has been tested on the following system configuration: ● Windows 10 64-bit OS ● Python 3.6.5 ● Eclipse IDE with PyDev plugin
 
 
 
